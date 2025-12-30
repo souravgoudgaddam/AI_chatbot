@@ -25,7 +25,6 @@ This project demonstrates real-world **GenAI application design**, API abstracti
 
 ---
 
-## 📂 Project Architecture
 
 ## 📂 Project Architecture
 
