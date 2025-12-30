@@ -27,7 +27,7 @@ This project demonstrates real-world **GenAI application design**, API abstracti
 
 
 ## 📂 Project Architecture
-
+```
 AI_chatbot/
 ├── App/
 │   ├── api/          # API layer
@@ -37,5 +37,5 @@ AI_chatbot/
 ├── Notebook/         # Experiments
 ├── requirements.txt
 ├── README.md
-
+```
 
